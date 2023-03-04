@@ -2,3 +2,5 @@
 Add code for commit C1
 
 Add code for commit C2
+
+Add code for commit B2
